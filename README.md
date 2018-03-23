@@ -1,4 +1,4 @@
-# Kubernetes-Into
+# Kubernetes-Intro
 Repository to contain all Intro material for Kubernetes
 
 ## Kubernetes
